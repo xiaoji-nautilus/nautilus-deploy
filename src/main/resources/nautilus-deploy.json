@@ -1,0 +1,10 @@
+{
+  "debug": true,
+  "local.server.host": "sa-amq",
+  "local.server.port": 5672,
+  "deploy.server.ssh.username": "root",
+  "deploy.server.ssh.password": "1234",
+  "deploy.server.ssh.host": "192.168.0.10",
+  "deploy.server.ssh.port": 2223,
+  "amq.app.id": "nautilus-deploy"
+}
